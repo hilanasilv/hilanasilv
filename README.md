@@ -3,7 +3,7 @@
 #
 
 <p style="text-align=center" align=center>
-Sou Dev Full-Stack Júnior, com maior familiaridade em Front-end, no qual se concentra grande parte dos meus projetos. Sou apaixonada por soluções tecnológicas e criativas pensadas para a experiência do usuário, por isso, também tenho estudado UI/UX Design. Atualmente, estou me aprofundando em React, Typescript e Angular, além de estar me dedicando um pouco mais ao desenvolvimento Back-end. 
+Sou Dev Full-Stack Júnior, com maior familiaridade em Front-end, no qual se concentra grande parte dos meus projetos. Sou apaixonada por soluções tecnológicas e criativas pensadas para a experiência do usuário, por isso, também tenho estudado UI/UX Design. Atualmente, estou me aprofundando em React e Typescript, além de estar me dedicando um pouco mais ao desenvolvimento Back-end. 
 </p>
 
 <div align=center style="display: inline_block"<br>
