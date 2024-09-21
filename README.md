@@ -1,40 +1,53 @@
-<img width=100% bottom=50px src="https://github.com/hilanasilv/hilanasilv/assets/130328903/bde15e97-cf99-4723-ab8b-75bc87fa854d"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins+Code&weight=300&size=30&duration=4000&pause=1000&color=FFF&center=true&vCenter=true&random=false&width=1000&lines=Olá!+Meu+nome+é+Nayla+Hilana+✨;Desenvolvedora+Full+Stack)](https://git.io/typing-svg)
 
-#
-
-<p style="text-align=center" align=center>
-Sou Dev Full-Stack Júnior, com maior familiaridade em Front-end, no qual se concentra grande parte dos meus projetos. Sou apaixonada por soluções tecnológicas e criativas pensadas para a experiência do usuário, por isso, também tenho estudado UI/UX Design. Atualmente, estou me aprofundando em React e Typescript, além de estar me dedicando um pouco mais ao desenvolvimento Back-end. 
-</p>
-
-<div align=center style="display: inline_block"<br>
-  <h3>Skills</h3>
-  <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img align="center" alt="" height="25" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-  <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />    
+<div align="center">
+  <img height="200" src="https://cdn.dribbble.com/users/3671336/screenshots/6646593/jelisa_1to1px_animation3.gif"/>
 </div>
 
-#
+###
 
-<div style="text-align: center;" align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hilanasilv&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000&text_color=FFF&hide_border=true&border_radius=5&theme=midnight-purple" alt="GitHub stats">
-  <img height=140em src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilanasilv&line_height=10&card_width=290&layout=compact&hide_title=true&count_private=true&show_icons=true&title_color=FF00F6&bg_color=000&text_color=FFF&hide_border=true&border_radius=5&count_private=true" alt="Most Used Languages">
+<div align="center">
+  <a href="https://www.linkedin.com/in/nayla-hilana-dev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=191724&logoColor=FFF&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
+  </a>
   
+  <a href="mailto:hilanacs@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=191724&logoColor=FFF&labelColor=&style=for-the-badge" height="25" alt="gmail logo"/>
+  </a>
+  <a href="https://t.me/hilanadev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=191724&logoColor=FFF&labelColor=&style=for-the-badge" height="25" alt="telegram logo"/>
+  </a>
 </div>
 
 #
 
-<div align=center>
-
-
-<a href="https://www.linkedin.com/in/nayla-hilana-dev/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9F4BFF&color:FFF"/></a>
-<a href="mailto:hilanacs@outlook.com" target="_blank"> <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=9F4BFF&color:FFF"/></a>
-<a href="https://t.me/hilanadev" target="_blank"> <img src="https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=telegram&logoColor=9F4BFF&color:FFF"/></a>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hilanasilv&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hilanasilv&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=rose_pine&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
+#
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+</div>
