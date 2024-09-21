@@ -7,15 +7,15 @@
 ###
 <div align="center">
   <a href="https://www.linkedin.com/in/nayla-hilana-dev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=191724&logoColor=FFF&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=191724&logoColor=FFF&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"/>
   </a>
   
   <a href="mailto:hilanacs@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=191724&logoColor=FFF&labelColor=&style=for-the-badge" height="25" alt="gmail logo"/>
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=191724&logoColor=FFF&labelColor=&style=for-the-badge" height="28" alt="gmail logo"/>
   </a>
   
   <a href="https://t.me/hilanadev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=191724&logoColor=FFF&labelColor=&style=for-the-badge" height="25" alt="telegram logo"/>
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=191724&logoColor=FFF&labelColor=&style=for-the-badge" height="28" alt="telegram logo"/>
   </a>
 </div>
 
